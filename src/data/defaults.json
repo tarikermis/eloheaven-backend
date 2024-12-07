@@ -1,0 +1,1628 @@
+[
+    {
+        "countryCode": "AF",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "AX",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "AL",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "DZ",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "AS",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "AD",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "AO",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "AI",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "AQ",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "AG",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "AR",
+        "currency": "USD",
+        "server": "LAS",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "AM",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "AW",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "AU",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "AT",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "AZ",
+        "currency": "USD",
+        "server": "TR",
+        "region": "EU"
+    },
+    {
+        "countryCode": "BS",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "BH",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "BD",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "BB",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "BY",
+        "currency": "USD",
+        "server": "RU",
+        "region": "EU"
+    },
+    {
+        "countryCode": "BE",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "BZ",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "BJ",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "BM",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "BT",
+        "currency": "USD",
+        "server": "CHINA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "BO",
+        "currency": "USD",
+        "server": "LAS",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "BQ",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "BA",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "BW",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "BV",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "BR",
+        "currency": "USD",
+        "server": "BR",
+        "region": "BR"
+    },
+    {
+        "countryCode": "IO",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "BN",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "BG",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "BF",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "BI",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "CV",
+        "currency": "USD",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "KH",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "CM",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "CA",
+        "currency": "CAD",
+        "server": "NA",
+        "region": "NA"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "KY",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "CF",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TD",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "CL",
+        "currency": "USD",
+        "server": "LAS",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "CN",
+        "currency": "USD",
+        "server": "GARENA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "GARENA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "CX",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "CC",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "CO",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "KM",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "CD",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "CG",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "CK",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "CR",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "CI",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "HR",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "CU",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "CW",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "CY",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "CZ",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "KR",
+        "region": "KR"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "DK",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "DJ",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "DM",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "DO",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "EC",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "EG",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "SV",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "GQ",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "ER",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "EE",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "SZ",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "ET",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "FK",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "FO",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "FJ",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "FI",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "FR",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "GF",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "PF",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TF",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GA",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GM",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GE",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "DE",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "GH",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GI",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "",
+        "currency": "GBD",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "GR",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "GL",
+        "currency": "USD",
+        "server": "NA",
+        "region": "NA"
+    },
+    {
+        "countryCode": "GD",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "GP",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GU",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GT",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "GG",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GN",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "GW",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GY",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "HT",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "HM",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "VA",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "HN",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "HK",
+        "currency": "USD",
+        "server": "CHINA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "HU",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "IS",
+        "currency": "USD",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "IN",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "ID",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "IR",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "IQ",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "IE",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "IM",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "IL",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "IT",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "JM",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "JP",
+        "currency": "USD",
+        "server": "JP",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "JE",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "JO",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "KZ",
+        "currency": "USD",
+        "server": "RU",
+        "region": "EU"
+    },
+    {
+        "countryCode": "KE",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "KI",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "KP",
+        "currency": "USD",
+        "server": "KR",
+        "region": "KR"
+    },
+    {
+        "countryCode": "KR",
+        "currency": "USD",
+        "server": "KR",
+        "region": "KR"
+    },
+    {
+        "countryCode": "KW",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "KG",
+        "currency": "USD",
+        "server": "RU",
+        "region": "EU"
+    },
+    {
+        "countryCode": "LA",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "LV",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "LB",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "LS",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "LR",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "LY",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "LI",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "LT",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "LU",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "MO",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MK",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "MG",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MW",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MY",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "MV",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "ML",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MT",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "MH",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "MQ",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MR",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MU",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "YT",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MX",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "FM",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "MD",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "MC",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "MN",
+        "currency": "USD",
+        "server": "",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "ME",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "MS",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MA",
+        "currency": "USD",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "MZ",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MM",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "NA",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "NR",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "NP",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "NL",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "NC",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "NZ",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "NI",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "NE",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "NG",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "NU",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "NF",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "MP",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "NO",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "OM",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "PK",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "PW",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "PS",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "PA",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "PG",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "PY",
+        "currency": "USD",
+        "server": "LAS",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "CHINA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "PE",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "PH",
+        "currency": "USD",
+        "server": "GARENA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "PN",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "PL",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "PT",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "PR",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "QA",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "GARENA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "KR",
+        "region": "KR"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "RE",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "RO",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "RU",
+        "currency": "USD",
+        "server": "RU",
+        "region": "EU"
+    },
+    {
+        "countryCode": "RW",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "BL",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "SH",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "KN",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "LC",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "MF",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "PM",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "VC",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "WS",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "SM",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "ST",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "SA",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "SN",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "RS",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "SC",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "SL",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "SG",
+        "currency": "USD",
+        "server": "GARENA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "SX",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "SK",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "SI",
+        "currency": "EUR",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "SB",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "SO",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "ZA",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GS",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "KR",
+        "region": "KR"
+    },
+    {
+        "countryCode": "SS",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "ES",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "LK",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "SD",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "SR",
+        "currency": "USD",
+        "server": "LAS",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "SJ",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "SE",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "CH",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "SY",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TW",
+        "currency": "USD",
+        "server": "GARENA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "TJ",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TZ",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TH",
+        "currency": "USD",
+        "server": "GARENA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "TL",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TG",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TK",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TO",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TT",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TN",
+        "currency": "USD",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "TR",
+        "currency": "USD",
+        "server": "TR",
+        "region": "EU"
+    },
+    {
+        "countryCode": "TM",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "TC",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "TV",
+        "currency": "USD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "UG",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "UA",
+        "currency": "USD",
+        "server": "EUNE",
+        "region": "EU"
+    },
+    {
+        "countryCode": "AE",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "GB",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "UM",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "US",
+        "currency": "USD",
+        "server": "NA",
+        "region": "NA"
+    },
+    {
+        "countryCode": "",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "UY",
+        "currency": "USD",
+        "server": "LAS",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "UZ",
+        "currency": "USD",
+        "server": "RU",
+        "region": "EU"
+    },
+    {
+        "countryCode": "VU",
+        "currency": "AUD",
+        "server": "OCE",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "",
+        "currency": "EUR",
+        "server": "EUW",
+        "region": "EU"
+    },
+    {
+        "countryCode": "VE",
+        "currency": "USD",
+        "server": "LAN",
+        "region": "LATAM"
+    },
+    {
+        "countryCode": "VN",
+        "currency": "USD",
+        "server": "GARENA",
+        "region": "OCE"
+    },
+    {
+        "countryCode": "VG",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "VI",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "WF",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "EH",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "YE",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "ZM",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    },
+    {
+        "countryCode": "ZW",
+        "currency": "USD",
+        "server": "",
+        "region": ""
+    }
+]

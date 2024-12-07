@@ -1,0 +1,21 @@
+name: Deployment Workflow
+on:
+  push:
+    branches: [master]
+
+jobs:
+  job_one:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: connect via ssh and run recreate.sh
+        uses: appleboy/ssh-action@master
+        with:
+          host: 51.15.140.3 # development server
+          username: root
+          key: ${{ secrets.SSH_SECRET }}
+          port: 22
+          script: |
+            cd ~/eloheaven-backend
+            git pull origin master
+            ./recreate.sh

@@ -1,0 +1,98 @@
+[
+    {
+        "id": "SummonerBarrier",
+        "name": "Barrier",
+        "key": "21",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerBarrier.png"
+    },
+    {
+        "id": "SummonerBoost",
+        "name": "Cleanse",
+        "key": "1",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerBoost.png"
+    },
+    {
+        "id": "SummonerDot",
+        "name": "Ignite",
+        "key": "14",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerDot.png"
+    },
+    {
+        "id": "SummonerExhaust",
+        "name": "Exhaust",
+        "key": "3",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerExhaust.png"
+    },
+    {
+        "id": "SummonerFlash",
+        "name": "Flash",
+        "key": "4",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerFlash.png"
+    },
+    {
+        "id": "SummonerHaste",
+        "name": "Ghost",
+        "key": "6",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerHaste.png"
+    },
+    {
+        "id": "SummonerHeal",
+        "name": "Heal",
+        "key": "7",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerHeal.png"
+    },
+    {
+        "id": "SummonerMana",
+        "name": "Clarity",
+        "key": "13",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerMana.png"
+    },
+    {
+        "id": "SummonerPoroRecall",
+        "name": "To the King!",
+        "key": "30",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerPoroRecall.png"
+    },
+    {
+        "id": "SummonerPoroThrow",
+        "name": "Poro Toss",
+        "key": "31",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerPoroThrow.png"
+    },
+    {
+        "id": "SummonerSmite",
+        "name": "Smite",
+        "key": "11",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerSmite.png"
+    },
+    {
+        "id": "SummonerSnowURFSnowball_Mark",
+        "name": "Mark",
+        "key": "39",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerSnowURFSnowball_Mark.png"
+    },
+    {
+        "id": "SummonerSnowball",
+        "name": "Mark",
+        "key": "32",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerSnowball.png"
+    },
+    {
+        "id": "SummonerTeleport",
+        "name": "Teleport",
+        "key": "12",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/SummonerTeleport.png"
+    },
+    {
+        "id": "Summoner_UltBookPlaceholder",
+        "name": "Placeholder",
+        "key": "54",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/Summoner_UltBookPlaceholder.png"
+    },
+    {
+        "id": "Summoner_UltBookSmitePlaceholder",
+        "name": "Placeholder and Attack-Smite",
+        "key": "55",
+        "icon": "https://ddragon.leagueoflegends.com/cdn/14.3.1/img/spell/Summoner_UltBookSmitePlaceholder.png"
+    }
+]

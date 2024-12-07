@@ -1,0 +1,127 @@
+[
+  {
+    "id": "astra",
+    "name": "Astra",
+    "icon": "/img/agents/astra.webp"
+  },
+  {
+    "id": "breach",
+    "name": "Breach",
+    "icon": "/img/agents/breach.webp"
+  },
+  {
+    "id": "brimstone",
+    "name": "Brimstone",
+    "icon": "/img/agents/brimstone.webp"
+  },
+  {
+    "id": "chamber",
+    "name": "Chamber",
+    "icon": "/img/agents/chamber.webp"
+  },
+  {
+    "id": "clove",
+    "name": "Clove",
+    "icon": "/img/agents/clove.webp"
+  },
+  {
+    "id": "cypher",
+    "name": "Cypher",
+    "icon": "/img/agents/cypher.webp"
+  },
+  {
+    "id": "deadlock",
+    "name": "Deadlock",
+    "icon": "/img/agents/deadlock.webp"
+  },
+  {
+    "id": "fade",
+    "name": "Fade",
+    "icon": "/img/agents/fade.webp"
+  },
+  {
+    "id": "gekko",
+    "name": "Gekko",
+    "icon": "/img/agents/gekko.webp"
+  },
+  {
+    "id": "harbor",
+    "name": "Harbor",
+    "icon": "/img/agents/harbor.webp"
+  },
+  {
+    "id": "iso",
+    "name": "Iso",
+    "icon": "/img/agents/iso.webp"
+  },
+  {
+    "id": "jett",
+    "name": "Jett",
+    "icon": "/img/agents/jett.webp"
+  },
+  {
+    "id": "kayo",
+    "name": "KAYO",
+    "icon": "/img/agents/kayo.webp"
+  },
+  {
+    "id": "killjoy",
+    "name": "Killjoy",
+    "icon": "/img/agents/killjoy.webp"
+  },
+  {
+    "id": "neon",
+    "name": "Neon",
+    "icon": "/img/agents/neon.webp"
+  },
+  {
+    "id": "omen",
+    "name": "Omen",
+    "icon": "/img/agents/omen.webp"
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "icon": "/img/agents/phoenix.webp"
+  },
+  {
+    "id": "raze",
+    "name": "Raze",
+    "icon": "/img/agents/raze.webp"
+  },
+  {
+    "id": "reyna",
+    "name": "Reyna",
+    "icon": "/img/agents/reyna.webp"
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "icon": "/img/agents/sage.webp"
+  },
+  {
+    "id": "skye",
+    "name": "Skye",
+    "icon": "/img/agents/skye.webp"
+  },
+  {
+    "id": "sova",
+    "name": "Sova",
+    "icon": "/img/agents/sova.webp"
+  },
+  {
+    "id": "viper",
+    "name": "Viper",
+    "icon": "/img/agents/viper.webp"
+  },
+  {
+    "id": "vyse",
+    "name": "Vyse",
+    "icon": "/img/agents/vyse.webp"
+  },
+  {
+    "id": "yoru",
+    "name": "Yoru",
+    "icon": "/img/agents/yoru.webp"
+  }
+]

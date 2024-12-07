@@ -1,0 +1,61 @@
+version: '3'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: backend
+    container_name: backend
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - '$PORT:$PORT'
+    depends_on:
+      - mongo
+      - redis
+    volumes:
+      - cdn_public:/home/node/app/public
+      - cdn_private:/home/node/app/private
+      - blacklist:/home/node/app/blacklist
+    networks:
+      - webserver_main_network
+
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    restart: unless-stopped
+    env_file: .env
+    command: 'mongod --port $DB_PORT'
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=$DB_ROOT_USER
+      - MONGO_INITDB_ROOT_PASSWORD=$DB_ROOT_PASS
+      - MONGO_INITDB_TEST_USERNAME=$DB_TEST_USER
+      - MONGO_INITDB_TEST_PASSWORD=$DB_TEST_PASS
+      - MONGO_INITDB_MAIN_USERNAME=$DB_MAIN_USER
+      - MONGO_INITDB_MAIN_PASSWORD=$DB_MAIN_PASS
+    ports:
+      - '$DB_PORT:$DB_PORT'
+    volumes:
+      - ./addons/init-mongo.sh:/docker-entrypoint-initdb.d/init-mongo.sh:ro
+      - dbdata:/data/db
+    networks:
+      - webserver_main_network
+
+  redis:
+    image: redis:latest
+    container_name: redis
+    restart: unless-stopped
+    networks:
+      - webserver_main_network
+
+volumes:
+  dbdata:
+  cdn_public:
+  cdn_private:
+  blacklist:
+
+networks:
+  webserver_main_network:
+    external: true
+    driver: bridge

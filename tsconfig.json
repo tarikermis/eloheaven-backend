@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "module": "CommonJS",
+    "baseUrl": "./src",
+    "paths": {
+      "*": ["node_modules/*", "types/*"],
+      "@bot": ["bot.ts"],
+      "@common/*": ["common/*"],
+      "@core/*": ["core/*"],
+      "@config": ["config.ts"],
+      "@data/*": ["data/*"],
+      "@database/*": ["database/*"],
+      "@helpers/*": ["helpers/*"],
+      "@models/*": ["database/models/*"],
+      "@repository/*": ["database/repository/*"],
+      "@router/*": ["router/*"],
+      "@socket/*": ["socket/*"],
+      "@types/*": ["types/*"]
+    },
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "strictFunctionTypes": false,
+    "noImplicitThis": false,
+    "moduleResolution": "node",
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*"],
+  "exclude": [".templates"]
+}
