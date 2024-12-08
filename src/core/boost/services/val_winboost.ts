@@ -18,6 +18,7 @@ import { Server } from 'http';
 const schema = {
   general: Joi.object()
     .keys({
+      game: Joi.string().required(),
       current: Joi.object()
         .keys({
           tier: Joi.string()
