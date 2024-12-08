@@ -1,6 +1,4 @@
-![Odin Logo](docs/static/images/logo.png)
-
-# Odin Backend ![](https://shields.io/badge/node-16.15.0-yellowgreen) ![](https://shields.io/badge/typescript-4.7.4-blue)
+# Eloheaven Backend ![](https://shields.io/badge/node-16.15.0-yellowgreen) ![](https://shields.io/badge/typescript-4.7.4-blue)
 
 New backend for eloheaven.gg.
 
