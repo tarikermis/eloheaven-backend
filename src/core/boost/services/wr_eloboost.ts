@@ -99,6 +99,7 @@ export default class WildRift_EloBoost extends Boost {
       ExtraOption.ExtraWin,
       ExtraOption.PriorityOrder,
       ExtraOption.StreamGames,
+      ExtraOption.DuoBoost,
       ExtraOption.SoloOnly,
       ExtraOption.VpnOn,
     ]);

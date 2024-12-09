@@ -132,6 +132,7 @@ export default class TeamfightTactics_EloBoost extends Boost {
       [
         ExtraOption.AppearOffline,
         ExtraOption.ExtraWin,
+        ExtraOption.DuoBoost,
         ExtraOption.PriorityOrder,
         ExtraOption.StreamGames,
         ExtraOption.VpnOn,

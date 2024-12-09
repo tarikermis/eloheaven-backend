@@ -154,6 +154,7 @@ export default class LeagueOfLegends_EloBoost extends Boost {
         ExtraOption.CustomChampions,
         ExtraOption.CustomFlash,
         ExtraOption.CustomLanes,
+        ExtraOption.DuoBoost,
         ExtraOption.ExtraWin,
         ExtraOption.PriorityOrder,
         ExtraOption.StreamGames,

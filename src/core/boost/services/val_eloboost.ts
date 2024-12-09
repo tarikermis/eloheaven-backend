@@ -111,6 +111,7 @@ export default class Valorant_EloBoost extends Boost {
       ExtraOption.CustomChampions,
       ExtraOption.ExtraWin,
       ExtraOption.PriorityOrder,
+      ExtraOption.DuoBoost,
       ExtraOption.StreamGames,
       ExtraOption.SoloOnly,
       ExtraOption.VpnOn,
